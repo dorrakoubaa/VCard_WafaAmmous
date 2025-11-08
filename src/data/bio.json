@@ -1,0 +1,38 @@
+{
+  "name": "Wafa Ammous",
+  "title": "Interior Designer",
+  "bio": "With over 10 years of experience in the interior design industry, I specialize in creating beautiful and functional spaces that reflect my clients' unique styles and needs. My passion for design began at a young age, and I have since honed my skills through education and hands-on experience in various design projects.",
+  "education": [
+    {
+      "degree": "Bachelor of Arts in Interior Design",
+      "institution": "XXX",
+      "year": 2019
+    }
+  ],
+  "experience": [
+    {
+      "role": "Interior Designer",
+      "company": "Ammous Interiors",
+      "years": "2025 - Present",
+      "description": "Lead designer on residential and commercial projects, overseeing all aspects from concept to completion."
+    },
+    {
+      "role": "Junior Interior Designer",
+      "company": "XXX",
+      "years": "201x - Present",
+      "description": "Assisted in design development and client presentations, contributing to various successful projects."
+    }
+  ],
+  "services": [
+    "Residential Interior Design",
+    "Commercial Interior Design",
+    "Space Planning",
+    "Color Consultation",
+    "Furniture Selection"
+  ],
+  "contact": {
+    "email": "ammouswafa@gmail.com",
+    "phone": "+216 53 243 559",
+    "website": "https://www.facebook.com/wafa.ammous"
+  }
+}
